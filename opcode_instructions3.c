@@ -6,6 +6,7 @@
  * @doubly: head of the linked list
  * @cline: line number;
  * Return: no return
+ * 
  */
 void _div(stack_t **doubly, unsigned int cline)
 {

@@ -6,6 +6,7 @@
  * @line_number: line number being executed from script file
  *
  * Return: void
+ * 
  */
 void m_pall(stack_t **stack, unsigned int line_number)
 {
