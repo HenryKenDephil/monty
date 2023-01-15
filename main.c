@@ -9,6 +9,7 @@ var_t var;
  * @argv: array of argument strings
  *
  * Return: EXIT_SUCCESS on success or EXIT_FAILURE on failure
+ * 
  */
 int main(int argc, char *argv[])
 {

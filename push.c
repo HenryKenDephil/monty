@@ -6,6 +6,7 @@
  * @arg: string to check
  *
  * Return: 0 if only digits, else 1
+ * 
  */
 static int check_for_digit(char *arg)
 {

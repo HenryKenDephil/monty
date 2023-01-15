@@ -6,6 +6,7 @@
  * @line_number: script line number
  *
  * Return: void
+ * 
  */
 void rotl(stack_t **stack, unsigned int line_number)
 {

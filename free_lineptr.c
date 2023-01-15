@@ -6,6 +6,7 @@
  * @arg: pointer to line
  *
  * Return: void
+ * 
  */
 void free_lineptr(int status, void *arg)
 {

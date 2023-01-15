@@ -3,7 +3,7 @@
 - Language: C, "Monty"
 
 ## Project Aim
-To create an interpreter for Monty ByteCode files
+a project to create an interpreter for Monty ByteCode files
 
 ## Learning Objectives
 * Understand what **LIFO** and **FIFO** mean
