@@ -6,7 +6,6 @@
  * @arg: double pointer to the stack
  *
  * Return: void
- * 
  */
 void free_stack(int status, void *arg)
 {

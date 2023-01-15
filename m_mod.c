@@ -6,7 +6,6 @@
  * @line_number: line number of current operation
  *
  * Return: void
- * 
  */
 void m_mod(stack_t **stack, unsigned int line_number)
 {
